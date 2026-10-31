@@ -44,7 +44,7 @@ Portal institucional para centralizar agenda, celebrações, serviços, equipe, 
 
 ## Estudos de caso de projetos privados
 
-Projetos com código ou informações operacionais reservadas são apresentados em uma [vitrine documental de estudos de caso](https://github.com/mayconabentes-bi/portfolio-estudos-de-caso). Ela reúne Norte Achou, CLICS, Manaus Tools, painel de preparação para provas e inteligência em compras públicas, sem expor código-fonte, credenciais, dados de clientes ou propriedade intelectual.
+Uma [vitrine documental de estudos de caso](https://github.com/mayconabentes-bi/portfolio-estudos-de-caso) apresenta dez projetos privados selecionados por maturidade, aplicação real e valor profissional. Os casos abrangem inteligência de mercado, BI, pricing, People Analytics, ERP, gestão da qualidade e operação distribuída, sem expor código-fonte, clientes, credenciais ou propriedade intelectual.
 
 ## Tecnologias e ferramentas
 
