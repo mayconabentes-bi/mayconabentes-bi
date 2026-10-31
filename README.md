@@ -42,6 +42,10 @@ Portal institucional para centralizar agenda, celebrações, serviços, equipe, 
 
 **Competências demonstradas:** levantamento de necessidades, comunicação institucional, experiência do usuário e gestão dinâmica de conteúdo.
 
+## Estudos de caso de projetos privados
+
+Projetos com código ou informações operacionais reservadas são apresentados em uma [vitrine documental de estudos de caso](https://github.com/mayconabentes-bi/portfolio-estudos-de-caso). Ela reúne Norte Achou, CLICS, Manaus Tools, painel de preparação para provas e inteligência em compras públicas, sem expor código-fonte, credenciais, dados de clientes ou propriedade intelectual.
+
 ## Tecnologias e ferramentas
 
 **Dados e negócios:** Business Intelligence, análise de indicadores, inteligência de mercado, análise de processos e compras públicas.
