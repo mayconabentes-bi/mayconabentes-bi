@@ -44,7 +44,7 @@ Portal institucional para centralizar agenda, celebrações, serviços, equipe, 
 
 ## Estudos de caso de projetos privados
 
-Uma [vitrine documental de estudos de caso](https://github.com/mayconabentes-bi/portfolio-estudos-de-caso) apresenta dez projetos privados selecionados por maturidade, aplicação real e valor profissional. Os casos abrangem inteligência de mercado, BI, pricing, People Analytics, ERP, gestão da qualidade e operação distribuída, sem expor código-fonte, clientes, credenciais ou propriedade intelectual.
+Uma [vitrine estratégica de estudos de caso](https://github.com/mayconabentes-bi/portfolio-estudos-de-caso) apresenta os 20 projetos privados preservados, organizados entre produtos principais, soluções aplicadas, iniciativas institucionais e etapas legadas de evolução. Os casos abrangem inteligência de mercado, BI, pricing, People Analytics, ERP, qualidade, compras públicas, civic tech e automação, sem expor código-fonte, clientes, credenciais ou propriedade intelectual.
 
 ## Tecnologias e ferramentas
 
